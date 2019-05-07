@@ -13,7 +13,7 @@ My project mark is : 100/100 |
 
 If you want to test my project, you just have to
 
-We have an error management, so if the map is not well formatted or incorrect, you will see it instantly.
+We have an error management, so if the command is not well formatted or incorrect, you will see it instantly.
 
 ```
 ./ft_ssl [md5 | sha256 | sha512 | whirpool] [-pqrshv] [filename (10 MAX)] ...
